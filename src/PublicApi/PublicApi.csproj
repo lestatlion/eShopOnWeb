@@ -5,6 +5,7 @@
     <RootNamespace>Microsoft.eShopWeb.PublicApi</RootNamespace>
     <UserSecretsId>5b662463-1efd-4bae-bde4-befe0be3e8ff</UserSecretsId>
     <DockerDefaultTargetOS>Linux</DockerDefaultTargetOS>
+    <ErrorOnDuplicatePublishOutputFiles>false</ErrorOnDuplicatePublishOutputFiles>
     <DockerfileContext>..\..</DockerfileContext>
   </PropertyGroup>
 
